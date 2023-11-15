@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/Mani-messa/HTML-CSS.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "branche1"]
+	remote = origin
+	merge = refs/heads/branche1

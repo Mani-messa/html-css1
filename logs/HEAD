@@ -1,0 +1,30 @@
+0000000000000000000000000000000000000000 9cf91af358e6c228f233382f0463ad377277c1b2 Manel Terki <m.terki@it-students.fr> 1699965566 +0100	commit (initial): first commit
+9cf91af358e6c228f233382f0463ad377277c1b2 0000000000000000000000000000000000000000 Manel Terki <m.terki@it-students.fr> 1699965603 +0100	Branch: renamed refs/heads/main to refs/heads/main
+9cf91af358e6c228f233382f0463ad377277c1b2 9cf91af358e6c228f233382f0463ad377277c1b2 Manel Terki <m.terki@it-students.fr> 1699965603 +0100	Branch: renamed refs/heads/main to refs/heads/main
+9cf91af358e6c228f233382f0463ad377277c1b2 2e6766fc48eac068624b77b01e013b0fbf9c0a7a Manel Terki <m.terki@it-students.fr> 1699966137 +0100	commit: first commit
+2e6766fc48eac068624b77b01e013b0fbf9c0a7a 388450c861a4eaa58f566c8a7980db2f11839ebf Manel Terki <m.terki@it-students.fr> 1699966525 +0100	commit: first commit
+388450c861a4eaa58f566c8a7980db2f11839ebf 6d75ef656370b959d3c210f0bdd6deaeaf11cd70 John Doe <m.terki@it-students.fr> 1699969366 +0100	commit: test commit 3
+6d75ef656370b959d3c210f0bdd6deaeaf11cd70 b5d5178461b83956ec9e92469de0670224b69580 John Doe <m.terki@it-students.fr> 1699969908 +0100	commit: test commit 4
+b5d5178461b83956ec9e92469de0670224b69580 c90646427f9039d4a67277f434078cd9b86757f3 John Doe <m.terki@it-students.fr> 1699970239 +0100	commit: changement titre
+c90646427f9039d4a67277f434078cd9b86757f3 c9704430615a89505fc0874f9d44be65bdb57ead John Doe <m.terki@it-students.fr> 1699970384 +0100	commit: changement titre
+c9704430615a89505fc0874f9d44be65bdb57ead cde2702538685e45d4a81599e2ec9eea07897ce4 John Doe <m.terki@it-students.fr> 1699970483 +0100	commit: titre principal
+cde2702538685e45d4a81599e2ec9eea07897ce4 cde2702538685e45d4a81599e2ec9eea07897ce4 John Doe <m.terki@it-students.fr> 1699971076 +0100	checkout: moving from main to rectif
+cde2702538685e45d4a81599e2ec9eea07897ce4 cde2702538685e45d4a81599e2ec9eea07897ce4 John Doe <m.terki@it-students.fr> 1699971182 +0100	checkout: moving from rectif to rectif1
+cde2702538685e45d4a81599e2ec9eea07897ce4 cde2702538685e45d4a81599e2ec9eea07897ce4 John Doe <m.terki@it-students.fr> 1699971554 +0100	reset: moving to HEAD
+cde2702538685e45d4a81599e2ec9eea07897ce4 cde2702538685e45d4a81599e2ec9eea07897ce4 John Doe <m.terki@it-students.fr> 1699971570 +0100	reset: moving to HEAD
+cde2702538685e45d4a81599e2ec9eea07897ce4 cde2702538685e45d4a81599e2ec9eea07897ce4 John Doe <m.terki@it-students.fr> 1699971738 +0100	reset: moving to HEAD
+cde2702538685e45d4a81599e2ec9eea07897ce4 c9704430615a89505fc0874f9d44be65bdb57ead John Doe <m.terki@it-students.fr> 1699972083 +0100	rebase (start): checkout cde2702538685e45d4a81599e2ec9eea07897ce4^
+c9704430615a89505fc0874f9d44be65bdb57ead c9704430615a89505fc0874f9d44be65bdb57ead John Doe <m.terki@it-students.fr> 1699972083 +0100	rebase (finish): returning to refs/heads/rectif1
+c9704430615a89505fc0874f9d44be65bdb57ead c90646427f9039d4a67277f434078cd9b86757f3 John Doe <m.terki@it-students.fr> 1699972104 +0100	rebase (start): checkout c9704430615a89505fc0874f9d44be65bdb57ead^
+c90646427f9039d4a67277f434078cd9b86757f3 c90646427f9039d4a67277f434078cd9b86757f3 John Doe <m.terki@it-students.fr> 1699972104 +0100	rebase (finish): returning to refs/heads/rectif1
+c90646427f9039d4a67277f434078cd9b86757f3 a53404013494580bf9a2970cc831e03c3f02c43b John Doe <m.terki@it-students.fr> 1699972114 +0100	revert: Revert "changement titre"
+a53404013494580bf9a2970cc831e03c3f02c43b cde2702538685e45d4a81599e2ec9eea07897ce4 John Doe <m.terki@it-students.fr> 1699972203 +0100	checkout: moving from rectif1 to cde2702538685e45d4a81599e2ec9eea07897ce4
+cde2702538685e45d4a81599e2ec9eea07897ce4 a53404013494580bf9a2970cc831e03c3f02c43b John Doe <m.terki@it-students.fr> 1699972213 +0100	checkout: moving from cde2702538685e45d4a81599e2ec9eea07897ce4 to a53404013494580bf9a2970cc831e03c3f02c43b
+a53404013494580bf9a2970cc831e03c3f02c43b cc3b3a80967edeb92ec29a9ec55c4cdeb4dcf3d5 John Doe <m.terki@it-students.fr> 1699972344 +0100	commit: commit 1
+cc3b3a80967edeb92ec29a9ec55c4cdeb4dcf3d5 f1c9dba6286354cb72f25a653a84f2898773e15d John Doe <m.terki@it-students.fr> 1699972467 +0100	commit: commit titre
+f1c9dba6286354cb72f25a653a84f2898773e15d 388450c861a4eaa58f566c8a7980db2f11839ebf John Doe <m.terki@it-students.fr> 1699973307 +0100	checkout: moving from f1c9dba6286354cb72f25a653a84f2898773e15d to branche1
+388450c861a4eaa58f566c8a7980db2f11839ebf 0af2e19f25a4bc66e327fc165618e828f2575dd5 John Doe <m.terki@it-students.fr> 1699973365 +0100	commit: changement title
+0af2e19f25a4bc66e327fc165618e828f2575dd5 ea81bd5538b1b8164c70c36486038e1751fbee3b John Doe <m.terki@it-students.fr> 1699973416 +0100	merge a53404013494580bf9a2970cc831e03c3f02c43b: Merge made by the 'ort' strategy.
+ea81bd5538b1b8164c70c36486038e1751fbee3b 613fb69fb01d7f155b7de23a4b4e188bf49c7a55 John Doe <m.terki@it-students.fr> 1699974607 +0100	commit (merge): Merge commit 'cde2702538685e45d4a81599e2ec9eea07897ce4' into branche1
+613fb69fb01d7f155b7de23a4b4e188bf49c7a55 fbc38639726145ad75603a845a094a4c38570904 John Doe <m.terki@it-students.fr> 1699974630 +0100	commit: commit 1
+fbc38639726145ad75603a845a094a4c38570904 68582086ce4bb2d09e53186e7eed3284be333141 John Doe <m.terki@it-students.fr> 1699974844 +0100	commit: change
